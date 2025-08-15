@@ -1,4 +1,4 @@
 #  Bulldozers price prediction
 Structured data is given in .csv file. It can also be downloade from : https://github.com/mrdbourke/zero-to-mastery-ml/raw/refs/heads/master/data/bluebook-for-bulldozers.zip
 
-Clock on the collab link inside .ipynb file to see full code and to run it.
+Click on the collab link inside .ipynb file to see full code and to run it.
